@@ -43,12 +43,13 @@
 //! }
 //! ```
 //!
-//! For more examples, take a look at the `examples/` directory.
+//! For more examples, take a look at the [examples] directory.
 //!
 //! [`Alchemy Enhanced APIs`]: https://docs.alchemy.com/reference/enhanced-apis-overview
 //! [reqwest]: https://crates.io/crates/reqwest
 //! [serde]: https://crates.io/crates/serde
 //! [`AddressActivity`]: self::api::notify::WebhookType#AddressActivity
+//! [examples]: https://github.com/phnaharris/alchemy-api-rs/tree/main/examples
 
 #![deny(missing_docs)]
 #![warn(missing_debug_implementations, rust_2018_idioms, rustdoc::all)]
