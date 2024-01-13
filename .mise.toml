@@ -1,0 +1,8 @@
+[env]
+APP_ENV = 'development'
+WEBHOOK_URL = ''
+ALCHEMY_TOKEN = ""
+WEBHOOK_ID = ""
+ADDRESS = ""
+NFT_CONTRACT_ADDRESS = ""
+NFT_TOKEN_ID = 1

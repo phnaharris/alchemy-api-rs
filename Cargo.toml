@@ -1,10 +1,10 @@
 [package]
-name = "alchemy-api-rs"
+name = "alchemy-api"
 version = "0.1.0"
 edition = "2021"
 authors = ["phnaharris <phnanh.harris@gmail.com>"]
 license = "GPL-3.0-or-later"
-description = "A high-level binding for Alchemy API, written in Rust."
+description = "A high-level binding for Alchemy Enhanced APIs, written in Rust."
 repository = "https://github.com/phnaharris/alchemy-api-rs.git"
 keywords = ["alchemy", "api", "web3"]
 categories = ["api-bindings", "development-tools"]
